@@ -10,4 +10,9 @@ Este proyecto es una práctica diseñada para aprender y aplicar GitFlow en un e
 2. Preparar una versión (`release`).
 3. Corregir errores en producción (`hotfix`).
 
+## Versión 1.0
+- Header con gradiente.
+- Sección "Acerca de".
+- Footer con contacto.
+
 ¡Buena suerte! 🎉
