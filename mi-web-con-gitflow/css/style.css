@@ -7,6 +7,11 @@ body {
     color: #333;
 }
 
+header {
+    background: linear-gradient(90deg, #ff9100, #653097);
+    color: white;
+}
+
 header, footer {
     background-color: #ff9100;
     color: rgb(211, 36, 196);
